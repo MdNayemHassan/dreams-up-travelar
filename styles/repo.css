@@ -55,6 +55,9 @@
         
     
     }
+    .last-part{
+        margin-left: -100px;
+    }
     .end-sec{
         
         flex-direction: column;
@@ -76,7 +79,7 @@
       display: grid;
       flex-direction: column;
       margin-top: 1000px;
-      width: 1250px;
+      width: 1700px;
       
     
     }
