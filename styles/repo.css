@@ -40,6 +40,9 @@
         
         
     }
+    .cnt-1{
+        margin-left: 0px;
+    }
     .image-part{
         display: grid;
         flex-direction: column;
